@@ -6,7 +6,10 @@ stats-lite
 A fairly light statistical package. Works with numeric arrays, and will automatically filter out non-numeric values and attempt to convert string numeric values.
 
 ## Install
-```npm install --save stats-lite
+
+
+```
+npm install --save stats-lite
 ```
 
 Example
